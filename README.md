@@ -1,5 +1,5 @@
-# 💫 About Me:
-Sougata Dolai | IIT Patna | Ex- Accenture | AI/ML | Software Developer
+# 💫 About Me: Sougata Dolai | IIT Patna | Ex- Accenture | AI/ML | Software Developer
+
 
 
 # 💻 Tech Stack:
