@@ -1,5 +1,6 @@
-# 💫 About Me: Sougata Dolai | IIT Patna | Ex- Accenture | AI/ML | Software Developer
+# Hi 👋 I'm Sougata Dolai, welcome to my profile
 
+IIT Patna | Ex- Accenture | AI/ML | GenAI | Agentic AI | Software Developer
 
 
 # 💻 Tech Stack:
